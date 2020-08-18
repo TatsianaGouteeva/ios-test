@@ -1,8 +1,6 @@
-# Test task Gouteeva
+# List of publicly available GitHub accounts. Gouteeva
 
-The repository is used to store a test task for the position of iOS developer.
-
-The project is an iOS client application for [GitHub API](https://developer.github.com/v3/users/).
+The repository is used to store a project, which is an iOS client application for [GitHub API](https://developer.github.com/v3/users/).
 The application gets a list of publicly available information about someone with a GitHub account.
 
 ### Requirements
